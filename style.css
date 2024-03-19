@@ -1,0 +1,47 @@
+
+body {
+        background-color: beige; /* Nesse Caso pegou o corpo do nosso site , cor de fundo*/
+        color: black; /* Cor do texto*/  
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    text-shadow: 2px 2px 5px blueviolet;
+    
+}
+p {
+    margin-top:20px; /* define a margem superior;*/  
+    margin-bottom: 50px; /* define a margem inferior */  
+    margin-right: 50px; /* define a margem direita*/  
+    margin-left: 50px; /* define a margem esquerda*/  
+ }
+ strong{
+        color: #0000FF;
+ }
+ span{
+    color: #FF0000 ;
+ }
+  main{
+    color: black;
+    letter-spacing: 1px;
+    line-height: 1.8;/*espaçamento entre linhas*/  
+    image-rendering: auto;
+  }
+ol{
+    color: black;
+}
+a{
+    color: blueviolet;
+}
+img{   
+    border-radius: 50%;/*Imagem Redonda*/  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;/*Largura*/ 
+}
+footer{
+    color: black;
+    text-align: center;
+    text-shadow: 2px 2px 5px blueviolet;
+}
